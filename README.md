@@ -4,7 +4,7 @@
 
 **About me:**
 
-- I'm a mechanical engineer
+- I have a bachelor degree in mechanical engineering
 - I enjoy working with data
 - Autodidactic in Python, SQL and Tableau
 - Always learning something new (dbt currently)
