@@ -5,7 +5,7 @@
 **About me:**
 
 - 🔧 I have a bachelor degree in mechanical engineering
-- ❤️ Passionate about data
+- ❤️ Passionate about data and technology
 - 💻 Autodidactic in Python, SQL and Tableau
 - 💡 Always learning something (dbt currently)
 - 📊 I have experience in Data Analysis
