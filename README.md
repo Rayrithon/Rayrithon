@@ -9,7 +9,6 @@
 - Autodidactic in Python, SQL and Tableau
 - Always learning something new (dbt currently)
 - I have experience in Data Analysis
-
-You can find me here: [LinkedIn](https://www.linkedin.com/in/rayrithon/)
+- You can find me here: [LinkedIn](https://www.linkedin.com/in/rayrithon/)
 
 <p>&nbsp;</p>
