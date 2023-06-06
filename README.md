@@ -2,7 +2,7 @@
 
 <p>&nbsp;</p>
 
-About me:
+**About me:**
 
 - I'm a mechanical engineer
 - I enjoy working with data
