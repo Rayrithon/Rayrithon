@@ -13,7 +13,7 @@
 
 <p>&nbsp;</p>
 
-**Competences**
+**Competences:**
 - Microsoft SQL Server
 - Google BigQuery
 - Tableau
