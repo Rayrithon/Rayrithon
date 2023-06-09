@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C0C0C0&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=708090&height=120&section=header"/>
 
 - Hello, Everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> I'm Rayrithon
 
@@ -42,4 +42,4 @@
  
 [![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=Rayrithon&count_private=true&show_icons=true&theme=buefy&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C0C0C0&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=708090&height=120&section=footer"/>
