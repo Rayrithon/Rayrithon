@@ -23,5 +23,14 @@
 - Microsoft Excel
 - Engineering softwares
 
+<p>&nbsp;</p>
+
+**Projects on Tableau**
+- **Marketing Spend using Clustering:** Click [HERE](https://public.tableau.com/app/profile/rayrithon.liberato/viz/MarketingSpendusingClustering/UsingSavedClusters2)
+- **Office Supplies using Dual Axis Chart:** Click [HERE](https://public.tableau.com/app/profile/rayrithon.liberato/viz/DualAxisChartforOfficeSupplies/Sheet1)
+- **Car Sales per Continent:** Clicke [HERE](https://public.tableau.com/app/profile/rayrithon.liberato/viz/CarSalesperContinent/RelativeCarsSold)
+- **Unemployment Rate:** Clicke [HERE](https://public.tableau.com/app/profile/rayrithon.liberato/viz/Unemploymentperage/Sheet1)
+- **Jobs in UK:** Clicke [HERE](https://public.tableau.com/app/profile/rayrithon.liberato/viz/JobsinUK_16848867655150/Story1)
+ 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C0C0C0&height=120&section=footer"/>
