@@ -15,6 +15,7 @@
 
 **Competences:**
 - Microsoft SQL Server
+- Python
 - Google BigQuery
 - Tableau
 - Microsoft Excel
