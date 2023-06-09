@@ -38,5 +38,8 @@
 - **Unemployment Rate:** Clicke [HERE](https://public.tableau.com/app/profile/rayrithon.liberato/viz/Unemploymentperage/Sheet1)
 - **Jobs in UK:** Clicke [HERE](https://public.tableau.com/app/profile/rayrithon.liberato/viz/JobsinUK_16848867655150/Story1)
  
+ <p>&nbsp;</p>
+ 
+[![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=Rayrithon&count_private=true&show_icons=true&theme=buefy&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C0C0C0&height=120&section=footer"/>
