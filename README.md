@@ -4,9 +4,9 @@
 
 <p>&nbsp;</p>
 
-**About me:**
+**About me 🎯**
 
-- 🔧 I have a bachelor degree in mechanical engineering
+- 🎓 I have a bachelor degree in mechanical engineering
 - ❤️ Passionate about data and technology
 - 💻 Autodidactic in Python, SQL and Tableau
 - 💡 Always learning something (dbt currently)
@@ -15,7 +15,7 @@
 
 <p>&nbsp;</p>
 
-**Competences:**
+**Competences ⭐**
 - Microsoft SQL Server
 - Python
 - Google BigQuery
