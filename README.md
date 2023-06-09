@@ -11,7 +11,8 @@
 - 💻 Autodidactic in Python, SQL and Tableau
 - 💡 Always learning something (dbt currently)
 - 📊 I have experience in Data Analysis
-- 🔥 You can find me here: [LinkedIn](https://www.linkedin.com/in/rayrithon/)
+- 🔥 Here's my LinkedIn profile: [LinkedIn](https://www.linkedin.com/in/rayrithon/)
+- 📚 Here's my portfolio page: [Portfolio](https://rayrithon.github.io/)
 
 <p>&nbsp;</p>
 
@@ -22,6 +23,11 @@
 - Tableau
 - Microsoft Excel
 - Engineering softwares
+
+<p>&nbsp;</p>
+
+**Projects on SQL 💻**
+- **Steel Production Analysis:** Click [HERE](https://github.com/Rayrithon/Steel_Production_Analysis/blob/main/Steel_Analysis)
 
 <p>&nbsp;</p>
 
