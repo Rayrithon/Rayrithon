@@ -25,7 +25,7 @@
 
 <p>&nbsp;</p>
 
-**Projects on Tableau**
+**Projects on Tableau 📊**
 - **Marketing Spend using Clustering:** Click [HERE](https://public.tableau.com/app/profile/rayrithon.liberato/viz/MarketingSpendusingClustering/UsingSavedClusters2)
 - **Office Supplies using Dual Axis Chart:** Click [HERE](https://public.tableau.com/app/profile/rayrithon.liberato/viz/DualAxisChartforOfficeSupplies/Sheet1)
 - **Car Sales per Continent:** Clicke [HERE](https://public.tableau.com/app/profile/rayrithon.liberato/viz/CarSalesperContinent/RelativeCarsSold)
