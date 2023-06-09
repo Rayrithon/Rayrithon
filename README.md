@@ -11,8 +11,8 @@
 - 💻 Autodidactic in Python, SQL and Tableau
 - 💡 Always learning something (dbt currently)
 - 📊 I have experience in Data Analysis
-- 🔥 Here's my LinkedIn profile: [LinkedIn](https://www.linkedin.com/in/rayrithon/)
-- 📚 Here's my portfolio page: [Portfolio](https://rayrithon.github.io/)
+- 🔥 Here's my LinkedIn profile: **[LinkedIn](https://www.linkedin.com/in/rayrithon/)**
+- 📚 Here's my portfolio page: **[Portfolio](https://rayrithon.github.io/)**
 
 <p>&nbsp;</p>
 
