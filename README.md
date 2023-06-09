@@ -40,6 +40,6 @@
  
  <p>&nbsp;</p>
  
-[![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=Rayrithon&count_private=true&show_icons=true&theme=buefy&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=Rayrithon&count_private=true&show_icons=true&theme=vue&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C0C0C0&height=120&section=footer"/>
