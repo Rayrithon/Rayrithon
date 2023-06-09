@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C0C0C0&height=120&section=header"/>
+
 - Hello, Everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> I'm Rayrithon
 
 <p>&nbsp;</p>
@@ -20,3 +22,6 @@
 - Tableau
 - Microsoft Excel
 - Engineering softwares
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C0C0C0&height=120&section=footer"/>
